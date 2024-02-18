@@ -4,7 +4,7 @@
 
 ## Due: Monday, 26 Feb 2024
 
-## Expiration Date: Monday 4 Feb 2024, 2:30pm
+## Expiration Date: Monday 4 March 2024, 2:30pm
 
 ## Project Goals
 
